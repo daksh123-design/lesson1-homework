@@ -1,0 +1,33 @@
+body {
+    background-color: rgb(219, 234, 254);
+}
+
+h1 {
+    font-size: 32px;
+    color: rgb(29, 78, 216);
+}
+
+h2 {
+    font-size: 24px;
+    color: rgb(30, 58, 138);
+}
+
+p {
+    font-size: 16px;
+    color: rgb(30, 41, 59);
+}
+
+li {
+    font-size: 16px;
+    color: rgb(51, 65, 85);
+}
+
+strong {
+    font-size: 16px;
+    color: rgb(105, 24, 24);
+}
+
+h4 {
+    font-size: 14px;
+    color: rgb(100, 116, 139);
+}
